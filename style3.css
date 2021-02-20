@@ -1,0 +1,31 @@
+.input-group{
+    top: 150px;
+    position: absolute;
+    width: 300px;
+    transition: .5s;
+	margin-left:500px;
+}
+.input-field{
+    width: 350px;
+    padding: 10px 0;
+    margin: 5px 0;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    border-bottom: 1px solid #FFFFFF;
+    outline: none;
+    background: #FFFFFF;
+    margin-bottom: 20px;
+}
+.submit-btn{
+    width: 100%;
+    margin: auto;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block;
+    background: linear-gradient(to right, #ff105f,#ffad06);
+    border: 0;
+    outline: none;
+	margin-left: 20px;
+    border-radius: 30px;
+}
